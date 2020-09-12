@@ -15,6 +15,7 @@
 		5DBB6D40250C84190081013F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5DBB6D3E250C84190081013F /* LaunchScreen.storyboard */; };
 		5DBB6D4B250C84190081013F /* PasswordHackerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DBB6D4A250C84190081013F /* PasswordHackerTests.swift */; };
 		5DBB6D56250C841A0081013F /* PasswordHackerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DBB6D55250C841A0081013F /* PasswordHackerUITests.swift */; };
+		5DBB6D64250C85950081013F /* haikei.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5DBB6D63250C85950081013F /* haikei.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		5DBB6D51250C841A0081013F /* PasswordHackerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PasswordHackerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5DBB6D55250C841A0081013F /* PasswordHackerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PasswordHackerUITests.swift; sourceTree = "<group>"; };
 		5DBB6D57250C841A0081013F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5DBB6D63250C85950081013F /* haikei.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = haikei.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 		5DBB6D32250C84150081013F /* PasswordHacker */ = {
 			isa = PBXGroup;
 			children = (
+				5DBB6D63250C85950081013F /* haikei.jpg */,
 				5DBB6D33250C84150081013F /* AppDelegate.swift */,
 				5DBB6D35250C84150081013F /* SceneDelegate.swift */,
 				5DBB6D37250C84150081013F /* ViewController.swift */,
@@ -232,6 +235,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5DBB6D64250C85950081013F /* haikei.jpg in Resources */,
 				5DBB6D40250C84190081013F /* LaunchScreen.storyboard in Resources */,
 				5DBB6D3D250C84190081013F /* Assets.xcassets in Resources */,
 				5DBB6D3B250C84150081013F /* Main.storyboard in Resources */,
